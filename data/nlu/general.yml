@@ -3,6 +3,7 @@ nlu:
 - intent: affirm
   examples: |
     - Accept
+    - Accepts
     - Awesome!
     - Good
     - Great
